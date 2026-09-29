@@ -1,0 +1,12 @@
+{
+  "name": "CAR CRASH ARENA",
+  "short_name": "Crash Arena",
+  "description": "CAR CRASH ARENA — jogo de carros em navegador",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#08050d",
+  "theme_color": "#150d22",
+  "icons": []
+}
